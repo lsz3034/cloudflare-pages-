@@ -1,6 +1,7 @@
 # set_cookie.js  Cookie 管理代码功能概述
 
 这段代码实现了一套用于管理 HTTP 请求中的 Cookies 的工具函数，主要功能包括设置 Cookies、获取 Cookies、验证加密的 Cookies 令牌以及清除 Cookies。
+用以解决 cloudflare-pages 中无法使用 session 的问题
 
 ## 主要功能
 
